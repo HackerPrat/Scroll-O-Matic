@@ -19,7 +19,7 @@ This is an Arduino sketch that creates a web server on an ESP32 board with an OL
 
 ## Software Requirements
 
-- Arduino IDE
+- [Arduino IDE](https://www.arduino.cc/en/software)
 - [WiFi.h library](https://www.arduino.cc/en/Reference/WiFi)
 - [WebServer.h library](https://github.com/espressif/arduino-esp32/tree/master/libraries/WebServer)
 - [Wire.h library](https://www.arduino.cc/en/Reference/Wire)
